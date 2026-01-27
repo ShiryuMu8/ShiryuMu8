@@ -23,6 +23,8 @@
 - DOM
 - PHP
 - VScode
+- MySQL
+- DomPDF
   
 ## 🛠️ Tools
 
