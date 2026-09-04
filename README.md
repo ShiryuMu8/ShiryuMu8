@@ -4,10 +4,6 @@
 
 <h3 align="center">Développeuse Web Fullstack Junior · Epitech Promo 2027</h3>
 
-<p align="center">
-  🔍 <strong>Recherche d'alternance du 14 septembre 2026 au 22 octobre 2027</strong>
-</p>
-
 ---
 
 ## 🛠️ Hard Skills
